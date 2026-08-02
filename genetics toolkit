@@ -1,0 +1,37 @@
+ Genetics Toolkit
+
+**Genetics Toolkit** is a Python-based educational and bioinformatics project designed to simplify classical genetics calculations. The project provides an interactive toolkit that helps students visualize genetic inheritance patterns, perform genotype analysis, and automate common genetics problems that are traditionally solved by hand.
+
+The toolkit is being developed in a modular manner, with each module focusing on a different genetics concept. The current implementation includes a **Punnett Square Generator** that accepts parental genotypes, generates all possible offspring combinations, displays a formatted Punnett square, and calculates genotype frequencies.
+
+## Current Features
+
+* 🧬 Punnett Square Generator
+* 🧮 Genotype Ratio Calculator
+* 📋 Automatic genotype formatting (e.g., `tT` → `Tt`)
+* 💻 Command-line interface built in Python
+
+## Planned Features
+
+* 🌱 Phenotype Ratio Calculator
+* 🎲 Gamete Calculator
+* 🩸 ABO & Rh Blood Group Predictor
+* 🧬 Dihybrid Cross Analysis
+* 🌐 Interactive web interface
+* 📊 Improved visualization and user-friendly interface
+
+## Technologies Used
+
+* Python
+* PyCharm
+* GitHub (version control and project hosting)
+
+## Learning Outcomes
+
+This project demonstrates:
+
+* Python programming fundamentals
+* Conditional statements and loops
+* String manipulation
+* Problem decomposition and modular programming
+* Application of Mendelian genetics using computational methods
